@@ -1,6 +1,9 @@
 # Maveryth
-This is a music player app which will help one to play any kind of music, recordings and audio. Anyone can enjoy their favourite music at any time from this app.
+This is a music player app which will help one to play any kind of music, recordings and audio. 
+Anyone can enjoy their favourite music at any time from this app.
+
 It's a 3rd year 1st semester project.
+
 Features:
 •	Sign in with google 
 •	View Song List
