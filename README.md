@@ -13,7 +13,7 @@ Features:
 
 
 Required technogies to run this Project:
-1.Android Stduio
+1.Android Studio
 2.Firebase
 
 Steps of how to run this project:-
