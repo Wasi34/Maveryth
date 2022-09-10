@@ -14,7 +14,6 @@ Features:
 •	Delete song from song list
 •	Music playing page
 
-
 Required technogies to run this Project:
 1.Android Studio
 2.Firebase
