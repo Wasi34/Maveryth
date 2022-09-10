@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "333606042183",
+    "project_id": "maveryth",
+    "storage_bucket": "maveryth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333606042183:android:9dd1204e11323bead9cf62",
+        "android_client_info": {
+          "package_name": "com.example.maveryth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333606042183-fh2qlbkvv2fpqr98vvu8lavdn4r18keg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPkBvB0NUtLb-uF-rXO_m9poe9HCaESJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333606042183-fh2qlbkvv2fpqr98vvu8lavdn4r18keg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
