@@ -15,3 +15,9 @@ Features:
 Required technogies to run this Project:
 1.Android Stduio
 2.Firebase
+
+Steps of how to run this project:-
+Step 1: Download the zip file.
+Step 2: Cretae project named "Maveryth" in firebase
+Step 3: Connect your firebase with android studio.
+Step 4: Enjoy the project!
