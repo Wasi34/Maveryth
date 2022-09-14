@@ -14,11 +14,11 @@ It's a 2nd year 2nd semester project.
 •	Delete song from song list
 •	Music playing page
 
-# Required technogies to run this Project
+# Required Technogies 
 1.Android Studio
 2.Firebase
 
-# Steps of how to run this project
+# How to Install & Use
 Step 1: Download the zip file.
 Step 2: Cretae project named "Maveryth" in firebase
 Step 3: Connect your firebase with android studio.
