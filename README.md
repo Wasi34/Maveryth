@@ -14,7 +14,7 @@ It's a 2nd year 2nd semester project.
 •	Delete song from song list
 •	Music playing page
 
-# Required Technogies 
+# Required Technologies 
 1.Android Studio
 2.Firebase
 
