@@ -5,21 +5,21 @@ Anyone can enjoy their favorite music at any time from this app.
 It's a 2nd-year 2nd-semester project.
 
 # Features
-•	Sign in with Google 
-•	View Song List
-•	View Album
-•	Download songs from Firebase
-•	Sort all the songs
-•	Search for song
-•	Delete the song from the song list
-•	Music playing page
+•	Sign in with Google<br/>
+•	View Song List<br/>
+•	View Album<br/>
+•	Download songs from Firebase<br/>
+•	Sort all the songs<br/>
+•	Search for song<br/>
+•	Delete the song from the song list<br/>
+•	Music playing page<br/>
 
 # Required Technologies 
-1. Android Studio
-2. Firebase
+1. Android Studio<br/>
+2. Firebase<br/>
 
 # How to Install & Use
-Step 1: Download the zip file.
-Step 2: Create project named "Maveryth" in Firebase
-Step 3: Connect your firebase with android studio.
-Step 4: Enjoy the project!
+Step 1: Download the zip file.<br/>
+Step 2: Create project named "Maveryth" in Firebase.<br/>
+Step 3: Connect your firebase with android studio.<br/>
+Step 4: Enjoy the project.<br/>
